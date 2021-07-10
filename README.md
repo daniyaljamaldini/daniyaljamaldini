@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniyaljamaldini
 - 👀 I’m interested in ...Hacking/Game Development/Machine Learning;
 - 🌱 I’m currently learning ...Game Development/Hacking;
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Game development;
 - 📫 How to reach me ...Daniyaljamaldini1234@gmail.com
 
 <!---
